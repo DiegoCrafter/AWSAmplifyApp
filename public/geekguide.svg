@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="111.925" height="57.898" viewBox="0 0 111.925 57.898">
+  <g id="GEEKGUIDE" transform="translate(-0.075 -0.076)">
+    <g id="Group">
+      <path id="Path" d="M13.721,29.067V23.534H10.728V17.16H21.019V35.873H0V0H21.019V6.818H7.4V29.067Z" transform="translate(0.075 0.076)"/>
+      <path id="Path-2" data-name="Path" d="M.012,0H10.129V4.045H4.341v4.1h5.5V12.11H4.391v5.114h5.875v4.033H0V0Z" transform="translate(23.077 0.076)"/>
+      <path id="Path-3" data-name="Path" d="M.012,0H10.129V4.045H4.341v4.1h5.5V12.11H4.391v5.114h5.875v4.033H0V0Z" transform="translate(34.927 0.076)"/>
+      <path id="Path-4" data-name="Path" d="M13.123,9.477V21.244H8.757v-7.76H4.366v7.76H0V0H4.366V9.477h.287L8.744,0H13.1L9.106,9.477Z" transform="translate(46.815 0.076)"/>
+    </g>
+    <g id="Group-2" data-name="Group" transform="translate(7 22)">
+      <path id="Path-5" data-name="Path" d="M13.717,29.067V23.534H10.724V17.16H21.012V35.873H0V0H21.012V6.818H7.395V29.067Z" transform="translate(0.075 0.102)" fill="#911c62"/>
+      <path id="Path-6" data-name="Path" d="M20.788,35.873H0V0H7.37V29.08h6.036V0h7.382Z" transform="translate(24.479 0.089)" fill="#911c62"/>
+      <path id="Path-7" data-name="Path" d="M12.233,29.08v6.793H0V29.08H2.432V6.793H0V0H12.233V6.793H9.8V29.067h2.432Z" transform="translate(48.547 0.089)" fill="#911c62"/>
+      <path id="Shape" d="M15.85,35.873H0V0H15.126l5.662,5.686V30.911L15.85,35.873h0ZM7.37,6.818V29.067h6.035V6.818Z" transform="translate(63.948 0.089)" fill="#911c62"/>
+      <path id="Path-8" data-name="Path" d="M0,0H17.072V6.818H7.3v6.92h9.29v6.7H7.395V29.08h9.926v6.793H0Z" transform="translate(87.679 0.089)" fill="#911c62"/>
+    </g>
+    <rect id="Rectangle" width="7" height="19" transform="translate(15 17)"/>
+  </g>
+</svg>
